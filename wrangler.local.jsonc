@@ -1,0 +1,10 @@
+{
+  "name": "roomscape-local",
+  "main": "./workers/site-worker.js",
+  "compatibility_date": "2026-10-28",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application"
+  }
+}
